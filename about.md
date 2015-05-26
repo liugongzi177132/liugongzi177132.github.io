@@ -1,15 +1,11 @@
 ---
 layout: page
-title: About
+title: 关于作者
 permalink: /about/
 ---
 
-Some information about you!
+系统工程师，技术教练
 
-### More Information
+擅长C&C++，python，django开发。深圳软件匠艺推动者。
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+工作之余喜欢阅读、写作、运动、研究新事物、组织社区活动。
