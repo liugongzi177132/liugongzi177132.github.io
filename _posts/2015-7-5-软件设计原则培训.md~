@@ -41,10 +41,8 @@ category: 软件设计
 
   - YAGNI(You Ain’t Gonna Need It)
 
-  - TDA(Tell，Don't Ask)
+  - TDA()
   
   - KISS(KEEP IT SIMPLE, STUPID!)
 
   - LKP(Least Knowledge Principle) 最少知识原则/Law of Demeter 笛米特法则
-
-  - Do One Thing, Do It Well.
