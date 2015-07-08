@@ -1,10 +1,12 @@
 ---
 layout: post
-title: 软件设计原则培训
+title: 软件设计原则
 category: 软件设计
 ---
 
 今天做了一个关于软件设计原则的培训，先上图：
+
+![Vim cmd](/images/设计原则.jpg "Vim cmd")
 
 抽象层次由高到低分别是：
 
