@@ -3,9 +3,7 @@ layout: post
 title: 软件设计原则
 category: 软件设计
 ---
-
 今天做了一个关于软件设计原则的培训，分享一下各种软件设计原则，先上图：
-
 ![Vim cmd](/images/设计原则.jpg "Vim cmd")
 
 抽象层次由高到低分别是：
@@ -36,7 +34,7 @@ category: 软件设计
 
 + 其他原则
 
-  - DRY(Don’t Repeat Yourself)
+  - DRY(Don’t Repeat Yourself): 在一个系统内，任何一项知识都只应该存在一个明确而权威的表示。（可以有多个表示，但仅一个表示为权威）
 
   - The Singular Responsibility Principle
 
